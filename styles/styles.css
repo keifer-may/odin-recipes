@@ -1,0 +1,75 @@
+body{
+    background-color: #F1F7ED;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+footer{
+    background-color: #E0EEC6;
+    padding-bottom: 0%;
+}
+
+h1{
+    color:#315C2B;
+    text-align: center;
+    font-weight: 900;
+    font-size: 45px;
+    padding-top: 2%;
+}
+
+h2{
+    color:#315C2B;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+h3{
+    color:#315C2B;
+    font-weight: 700;
+    font-size: 25px;
+    font-style: italic;
+}
+
+img{
+    max-width: 33%; 
+    height: auto;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p{
+    line-height: 1.5;
+}
+
+a{
+    color:#315C2B;
+    font-size: 20px;
+    
+}
+
+a:hover{
+    color: #C2A83E;
+}
+
+.ingredients-list{
+    text-align: left;
+    text-indent: 5%;
+}
+
+.home-title{
+    padding-top: 7%;
+    font-size: 55px;
+    letter-spacing: 3px;
+}
+
+.home-list{
+    padding-top: 5%;
+    font-size: 30%;
+    line-height: normal;
+    text-align: left;
+    text-indent: 15%;
+}
